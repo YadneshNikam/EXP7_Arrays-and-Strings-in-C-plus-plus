@@ -2,6 +2,9 @@
 # Aim:  
 To study and implement C++ Arrays and Strings.
 
+# Tools:
+VScode
+
 # Theory:
 
 -  # Array:  
