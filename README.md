@@ -27,6 +27,9 @@ Arrays provide a mechanism for storing multiple values of the same type together
 
 # Algorithms:
 
+
+# Array
+
 # 1. Min-and-Max-Values-in-Arrays.
 
 1. Start.
@@ -81,3 +84,35 @@ Arrays provide a mechanism for storing multiple values of the same type together
     - Output `num[j]`.
 5. Stop.
 
+# Strings
+# 6. Palindrome
+  
+1. Start.
+2. Declare a string variable `str`.
+3. Set a boolean variable `isPalindrome` to true.
+4. Prompt the user to enter a string and read it into `str`.
+5. Find the length of `str`.
+6. Loop from `i = 0` to `i = 0` (decrement `i` by 1 each time):
+    - Print `str[i]`.
+7. Stop.
+
+# 7. String_concatination.cpp
+
+1.Start.
+2.Declare two string variables str1 and str2.
+3.Prompt the user to enter the first string and read it into str1.
+4.Prompt the user to enter the second string and read it into str2.
+5.Concatenate str1 and str2 with a space in between, store the result in result.
+6.Print "Concatenated string: " followed by result.
+7.Stop.
+
+# 8. String-reversal.cpp
+
+1.Start.
+2.Declare a string variable str and an integer variable n.
+3.Prompt the user to enter a string and read it into str.
+4.Set n to the length of str.
+5.Print "Reversed string: ".
+6.Loop from i = n-1 to i >= 0 (decrement i by 1 each time):
+7.Print str[i].
+8.Stop.
